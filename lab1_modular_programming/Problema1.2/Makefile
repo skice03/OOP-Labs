@@ -7,5 +7,5 @@ run:
 clean:
 	rm -f main
 
-# sau gcc -o main main.c header2.c -std=c99 -Wall -Wextra -Wunused -g daca este cu al doilea header
+# sau gcc -o main main.c header2.c -std=c99 -Wall -Wextra -Wunused -g daca este se foloseste al doilea header, cum este mentionat in cerinta
 

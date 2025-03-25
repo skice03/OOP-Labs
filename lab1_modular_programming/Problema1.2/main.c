@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define DEBUG // pentru cerinta de la problema 1.3
+#define DEBUG // implementare pentru cerinta de la problema 1.3
 
 #define USE_HEADER1 1
 #if USE_HEADER1 == 1
